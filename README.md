@@ -28,8 +28,8 @@ Crio soluções sob medida, transformo problemas complexos em código simples e 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunasoaresrocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasoaresrocha&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunadevfull&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunadevfull&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
