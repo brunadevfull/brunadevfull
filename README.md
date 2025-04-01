@@ -39,7 +39,7 @@ Crio soluções sob medida, transformo problemas complexos em código simples e 
 🔹 Amo resolver problemas complexos com código.  
 🔹 Adoro explorar novas tecnologias e aplicar inteligência artificial nos meus projetos.  
 🔹 Gosto de transformar ideias em soluções reais que façam diferença na vida das pessoas.  
-🔹 Mãe, dev, tech lover e sempre em busca da próxima habilidade!
+🔹 Dev, tech lover e sempre em busca da próxima habilidade!
 
 ---
 
