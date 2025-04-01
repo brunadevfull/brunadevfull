@@ -45,7 +45,7 @@ Crio soluções sob medida, transformo problemas complexos em código simples e 
 
 ## 📫 Vamos nos conectar?
 
-Me chama no [LinkedIn](https://www.linkedin.com/in/brunasoaresrocha) ou por e-mail: **bruna.s.rocha.dev@gmail.com**  
+Me chama no [LinkedIn](https://www.linkedin.com/in/brunarochadev) ou por e-mail: **brunadev.full@gmail.com**  
 Se quiser bater um papo sobre dev, IA ou aquele bug impossível — tô por aqui!
 
 ---
