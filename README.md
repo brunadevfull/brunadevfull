@@ -1,7 +1,7 @@
 # 👩‍💻 Bruna Soares Rocha
 
 Olá! Sou a Bruna — desenvolvedora full-stack, apaixonada por tecnologia, inovação e por automatizar tudo o que puder (inclusive café, se deixarem! 😄).  
-Atualmente atuo como engenheira de software na Marinha do Brasil, onde desenvolvo sistemas internos, crio soluções sob medida e transformo problemas complexos em código simples e funcional.
+Crio soluções sob medida, transformo problemas complexos em código simples e funcional, e adoro mergulhar em projetos desafiadores que envolvam backend, frontend e integração de sistemas.
 
 ---
 
@@ -32,18 +32,17 @@ Atualmente atuo como engenheira de software na Marinha do Brasil, onde desenvolv
 
 ## 💬 Um pouco mais sobre mim
 
-🔹 Sou apaixonada por resolver problemas complexos com código.  
+🔹 Amo resolver problemas complexos com código.  
 🔹 Adoro explorar novas tecnologias e aplicar inteligência artificial nos meus projetos.  
-🔹 Gosto de trabalhar com propósito e transformar ideias em soluções reais — especialmente as que fazem diferença na vida das pessoas.  
-🔹 Mãe, militar, tech lover e sempre em busca da próxima skill!
+🔹 Gosto de transformar ideias em soluções reais que façam diferença na vida das pessoas.  
+🔹 Mãe, dev, tech lover e sempre em busca da próxima habilidade!
 
 ---
 
-## 📢 Vamos nos conectar?
+## 📫 Vamos nos conectar?
 
 Me chama no [LinkedIn](https://www.linkedin.com/in/brunasoaresrocha) ou por e-mail: **bruna.s.rocha.dev@gmail.com**  
-Se quiser bater um papo sobre dev, IA, organização militar ou aquele bug impossível — tô por aqui!
+Se quiser bater um papo sobre dev, IA ou aquele bug impossível — tô por aqui!
 
 ---
-
 ✨ _“Automatize tudo. Inclusive seus sonhos.”_
